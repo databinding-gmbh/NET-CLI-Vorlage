@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>bdd.specflow.blogsample.template</id>
+    <version>$version$</version>
+    <description>
+      NET CLI Sample
+    </description>
+    <authors>René Leupold</authors>
+    <license type="expression">MIT</license>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="BDD.BeispielVorlage\**\*.*" exclude="BDD.BeispielVorlage\**\bin\**\*.*;BDD.BeispielVorlage\**\obj\**\*.*" target="Content" />
+  </files>  
+</package>
