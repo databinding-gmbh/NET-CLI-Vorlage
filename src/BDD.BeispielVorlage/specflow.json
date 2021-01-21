@@ -1,0 +1,13 @@
+﻿{
+  "bindingCulture": {
+    "language": "de-ch"
+  },
+  "language": {
+    "feature": "de-ch"
+  },
+  "livingDocGenerator": {
+    "enabled": true,
+    "filepath": "TestExecution.json"
+  },
+  "plugins": []
+}
