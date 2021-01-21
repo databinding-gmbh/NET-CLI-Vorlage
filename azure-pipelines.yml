@@ -1,0 +1,12 @@
+name: $(Date:yyyy.MM.dd)$(Rev:.r)
+
+trigger:
+- main
+
+pool: databinding self hosted
+
+variables:
+- group: Prod
+
+steps:
+- task: NuGetToolInstaller@1
