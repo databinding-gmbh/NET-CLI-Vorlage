@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
+	<icon>Content\.template.config\icon.png</icon>
     <id>bdd.specflow.blogsample.template</id>
     <version>$version$</version>
     <description>
