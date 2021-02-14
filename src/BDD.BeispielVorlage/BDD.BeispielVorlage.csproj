@@ -10,8 +10,8 @@
     <PackageReference Include="selenium.webdriver.chromedriver" Version="88.0.4324.2700" />
     <PackageReference Include="selenium.webdriver.geckodriver" Version="0.29.0" />
     <PackageReference Include="specflow.plus.livingdocplugin" Version="3.5.286" />
-    <PackageReference Include="specflow.tools.msbuild.generation" Version="3.5.14" />
     <PackageReference Include="specrun.specflow" Version="3.5.22" />
+    <PackageReference Include="t4.filemanager.visualstudio" Version="2.0.0" />
   </ItemGroup>
 
 </Project>
