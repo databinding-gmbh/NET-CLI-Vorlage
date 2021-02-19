@@ -6,8 +6,10 @@
     <version>$version$</version>
     <description>
       NET CLI Sample
+	  Blogpost: https://www.databinding.net/rahmenbedingungen-etablieren-mit-net-cli-vorlagen/
     </description>
     <authors>René Leupold</authors>
+	<repository type="git" url="https://github.com/databinding-gmbh/NET-CLI-Vorlage" />
     <license type="expression">MIT</license>
     <packageTypes>
       <packageType name="Template" />
